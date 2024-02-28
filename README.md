@@ -1,6 +1,5 @@
 ### <div align="center">I'm Eugene, a self-taught full-stack developer 👨‍💻 I have been doing web development since 2022 🚀</div>
 
-<br/> 
   
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
