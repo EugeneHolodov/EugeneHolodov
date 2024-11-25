@@ -1,19 +1,19 @@
-### <div align="center">I'm Eugene, a self-taught full-stack developer 👨‍💻 I have been doing web development since 2022 🚀</div>
+### <div align="center">I'm Eugene, full-stack developer 👨‍💻 I have been doing web development since 2021 🚀</div>
 
   
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- 🔭 Currently seeking exciting job opportunities (www.linkedin.com/in/yevhenii-holodov)
+- 🔭 My Linkedin profile (www.linkedin.com/in/yevhenii-holodov)
 
 - 🌱 Diving Deep into Node.js: Expanding my expertise in server-side development
 
-- ❓ Front-end enthusiast specializing in React and related technologies. Ask me anything!
+- ❓ Full-stack developer specializing in React \ Angular && Node.js \ C# and related technologies. Ask me anything!
 
 - ⚡ I love challenges
 
-- 🇳🇴 I currently live in Norway
+- 🇳🇴 I live in Norway
 
 <br/>
 
