@@ -5,7 +5,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- 🔭 Find me on LinkedIn: (www.linkedin.com/in/yevhenii-holodov)
+- 🔭 Find me on LinkedIn: [👨🏻‍💻 Eugene Holodov](www.linkedin.com/in/yevhenii-holodov)
   
 - 🌐 Currently, I'm a Full-Stack Developer at [KUBA Norge](https://kuba.no/hms-system/) in Norway, where I specialize in creating robust software solutions. I work primarily with C#, .NET, and Angular on KUBA, a complex system designed for intricate internal control processes. This core stack forms the foundation of our projects, addressing diverse and challenging business needs.
   
@@ -58,22 +58,6 @@
 </div>
 
 </td></tr></table>
-
-<br/>
-
-## <div align="center">GitHub Stats</div>
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="60%" align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=EugeneHolodov&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&nocache=123456" />
-      </td>
-      <td width="40%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneHolodov&hide_border=true&layout=compact&theme=dark&count_private=true" />      
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br/>
 
