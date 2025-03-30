@@ -1,19 +1,23 @@
-### <div align="center">I'm Eugene, full-stack developer 👨‍💻 I have been doing web development since 2021 🚀</div>
+### <div align="center">👋 Hi, I'm Eugene, a full-stack developer passionate about crafting engaging web and mobile experiences. I've been immersed in the world of web development since 2021 and continue to thrive on technical challenges and learning opportunities. 🚀</div>
 
   
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- 🔭 My Linkedin profile (www.linkedin.com/in/yevhenii-holodov)
+- 🔭 Find me on LinkedIn: (www.linkedin.com/in/yevhenii-holodov)
+  
+- 🌐 Currently, I'm a Full-Stack Developer at [KUBA Norge](https://kuba.no/hms-system/) in Norway, where I specialize in creating robust software solutions. I work primarily with C#, .NET, and Angular on KUBA, a complex system designed for intricate internal control processes. This core stack forms the foundation of our projects, addressing diverse and challenging business needs.
+  
+- 📱 I'm also well-versed in mobile development, crafting intuitive applications using Ionic. My passion for both web and mobile platforms drives me to continuously expand my skill set and push the boundaries of what I can create.
 
-- 🌱 Diving Deep into Node.js: Expanding my expertise in server-side development
+- 🌱 I'm actively diving into learning Flutter, enhancing my skills in mobile development technology, and exploring new ways to optimize mobile application performance.
 
-- ❓ Full-stack developer specializing in React \ Angular && Node.js \ C# and related technologies. Ask me anything!
+- ❓ Ask me anything about Angular, C#, .NET, and related technologies! I love connecting with other developers and sharing knowledge.
 
-- ⚡ I love challenges
+- ⚡ Challenges excite me! I'm always on the lookout for the next big problem to solve, whether it's in code optimization, user experience design, or system scalability.
 
-- 🇳🇴 I live in Norway
+- 🇳🇴 Living and working in Norway, I enjoy the vibrant tech community here and the opportunities to collaborate with innovative thinkers.
 
 <br/>
 
