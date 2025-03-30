@@ -66,10 +66,10 @@
   <table width="100%">
     <tr>
       <td width="60%" align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=EugeneHolodov&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark" />
+   <img src="https://github-readme-stats.vercel.app/api?username=EugeneHolodov&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark" />
       </td>
       <td width="40%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneHolodov&hide_border=true&layout=compact&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneHolodov&hide_border=true&layout=compact&theme=dark&count_private=true" />      
       </td>
     </tr>
   </table>
