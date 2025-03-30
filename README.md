@@ -5,7 +5,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- 🔭 Find me on LinkedIn: [👨🏻‍💻 Eugene Holodov](www.linkedin.com/in/yevhenii-holodov)
+- 🔭 Find me on LinkedIn: [👨🏻‍💻 Eugene Holodov](https://linkedin.com/in/yevhenii-holodov)
   
 - 🌐 Currently, I'm a Full-Stack Developer at [KUBA Norge](https://kuba.no/hms-system/) in Norway, where I specialize in creating robust software solutions. I work primarily with C#, .NET, and Angular on KUBA, a complex system designed for intricate internal control processes. This core stack forms the foundation of our projects, addressing diverse and challenging business needs.
   
