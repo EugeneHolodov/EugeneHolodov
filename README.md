@@ -13,7 +13,7 @@
 
 - 🌱 I'm actively diving into learning Flutter, enhancing my skills in mobile development technology, and exploring new ways to optimize mobile application performance.
 
-- ❓ Ask me anything about Angular, C#, .NET, and related technologies! I love connecting with other developers and sharing knowledge.
+- ❓ Ask me anything about Angular/React, C#, .NET, Ionic, and related technologies! I love connecting with other developers and sharing knowledge.
 
 - ⚡ Challenges excite me! I'm always on the lookout for the next big problem to solve, whether it's in code optimization, user experience design, or system scalability.
 
